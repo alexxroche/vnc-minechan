@@ -11,3 +11,10 @@ Quantum::Superpositions
 Imager::Search
 
 DEPENDENCIES
+
+# I've lovingly ripped this off to create vnc_angel; that checks servers use VNC over SSH
+# to enter dm-crypt passphrases if they reboot.
+# 20130831 Alexx Roche
+
+# Going to try to extend this to play igowin.exe using gnugo, (VNC::WOPR_games anyone?)
+# 201309 Alexx Roche
